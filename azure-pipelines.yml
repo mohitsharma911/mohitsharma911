@@ -20,6 +20,6 @@ steps:
     location: 'eastus'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/mohitsharma911/mohitsharma911/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName Mohit-test'
+    overrideParameters: '-projectName test'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
